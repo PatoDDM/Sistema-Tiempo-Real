@@ -1,0 +1,161 @@
+[ 0.004282900] >>> Riesgos
+
+[ 0.018587700] ............Light: _off_
+[ 0.039633100] --- Riesgos
+[ 0.053426100] >>> Distancia_Segura
+[ 0.079899900] --- Distancia_Segura
+[ 0.098301000] >>> Giro_Volante
+[ 0.118590900] --- Giro_Volante
+[ 0.134943500] >>> Control_Cab
+[ 0.150815800] >>> Riesgos
+
+[ 0.165151600] ............Light: _off_
+[ 0.186197000] --- Riesgoseza
+[ 0.205113400] --- Control_Cabeza
+[ 0.222490200] >>> Display
+[ 0.236314000] ............# Distance:  90
+[ 0.260959400] ............# Speed:  60
+[ 0.282644900] --- Display
+[ 0.2964
+[ 0.301046500] >>> Riesgos
+
+[ 0.315381900] ............Light: _off_
+[ 0.336427600] --- Riesgos
+[ 0.350257000] >>> Distancia_Segura
+[ 0.376692800] --- Distancia_Segura
+[ 0.395093500] >>> Giro_Volante
+[ 0.415387100] --- Giro_Volante
+[ 0.431739800] >>> Control_Cabeza
+[ 0.452479400] >>> Riesgos
+
+[ 0.466784700] ............Light: _off_
+[ 0.487829700] --- Riesgos
+[ 0.501622700] --- Control_Cabeza37700] >>> Programa Principal
+[ 0.533878600] --- Programa Principal
+[ 0.
+[ 0.602950500] >>> Riesgos
+
+[ 0.617286000] ............Light: _off_
+[ 0.638331500] --- Riesgos600421200] >>> Distancia_Segura
+[ 0.676036400] --- Distancia_Segura
+[ 0.700410500] >>> Giro_Volante
+[ 0.720673300] --- Giro_Volante
+[ 0.753080100] >>> Riesgos
+
+[ 0.767385700] ............Light: _off_
+[ 0.788430600] --- Riesgos
+[ 0.831258000] >>> Control_Cabeza
+[ 0.852220500] --- Control_Cabeza
+[ 0.90
+[ 0.903963800] >>> Riesgos
+
+[ 0.918299600] ............Light: _off_
+[ 0.939345200] --- Riesgos0410900] >>> Distancia_Segura
+[ 0.976038300] --- Distancia_Segura
+[ 1.000422100] >>> Display
+[ 1.014215500] ............# Distance:  80
+[ 1.038860800] .......
+[ 1.05
+[ 1.054189600] >>> Riesgos
+
+[ 1.068525900] ............Light: _off_
+[ 1.089571000] --- Riesgos0605600] >>> Giro_Volante
+[ 1.120078100] --- Giro_Volante.....# Speed:  80
+[ 1.146371800] --- Display
+[ 1.200
+[ 1.204476100] >>> Riesgos
+
+[ 1.218812000] ............Light: _off_
+[ 1.239862100] --- Riesgos410900] >>> Distancia_Segura
+[ 1.276040200] --- Distancia_Segura
+[ 1.294440800] >>> Control_Cabeza
+[ 1.315435300] --- Control_Cabeza
+[ 1.354232600] >>> Riesgos
+
+[ 1.368538100] ............Light: _off_
+[ 1.389582500] --- Riesgos
+[ 1.403375800] >>> Giro_Volante
+[ 1.423672800] --- Giro_Volante
+[ 1.5004
+[ 1.504988300] >>> Riesgos
+
+[ 1.519323500] ............Light: _off_
+[ 1.540368700] --- Riesgos10700] >>> Distancia_Segura
+[ 1.576034800] --- Distancia_Segura
+[ 1.654845800] >>> Riesgos
+
+[ 1.669150900] ............Light: _off_
+[ 1.690196400] --- Riesgos
+[ 1.703990000] >>> Control_Cabeza
+[ 1.724984600] --- Control_Cabeza
+[ 1.750410700] >>> Giro_Volante
+[ 1.770676900] --- Giro_Volante
+[ 1.80041
+[ 1.805499400] >>> Riesgos
+
+[ 1.819835700] ............Light: _off_
+[ 1.840880500] --- Riesgos0500] >>> Distancia_Segura
+[ 1.876033100] --- Distancia_Segura
+[ 1.955307200] >>> Riesgos
+
+[ 1.969612600] ............Light: _off_
+[ 1.990657700] --- Riesgos
+[ 2.004451300] >>> Display
+[ 2.018274800] ............# Distance:  65
+[ 2.042920600] ............# Speed:  85
+[ 2.064605800] --- Display
+[ 2.100420
+[ 2.106021300] >>> Riesgos
+
+[ 2.120357200] ............Light: _off_
+[ 2.145597704] --- Riesgos500] >>> Distancia_Segura
+-----DISTANCIA INSEGURA
+
+[ 2.188773000] --- Distancia_Segura
+[ 2.207204800] >>> Giro_Volante
+[ 2.227502000] --- Giro_Volante
+[ 2.243854900] >>> Cont
+[ 2.256142900] >>> Riesgos
+
+[ 2.270479500] ............Light: ^ON^
+[ 2.291012900] --- Riesgosrol_Cabeza
+[ 2.313517200] --- Control_Cabeza
+[ 2.4004109
+[ 2.406524000] >>> Riesgos
+
+[ 2.420859800] ............Light: ^ON^
+[ 2.441393500] --- Riesgos00] >>> Distancia_Segura
+-----DISTANCIA INSEGURA
+
+[ 2.488252000] --- Distancia_Segura
+[ 2.506684500] >>> Giro_Volante
+[ 2.526979000] --- Giro_Volante
+[ 2.556466400] >>> Riesgos
+
+[ 2.570771800] ............Light: ^ON^
+[ 2.591304500] --- Riesgos
+[ 2.643372900] >>> Control_Cabeza
+[ 2.664334600] --- Control_Cabeza
+[ 2.70041050
+[ 2.707035300] >>> Riesgos
+
+[ 2.721371600] ............Light: ^ON^
+[ 2.741905400] --- Riesgos0] >>> Distancia_Segura
+-----DISTANCIA INSEGURA
+
+[ 2.788252700] --- Distancia_Segura
+[ 2.806685200] >>> Giro_Volante
+[ 2.826981000] --- Giro_Volante
+[ 2.856991000] >>> Riesgos
+
+[ 2.871296100] ............Light: ^ON^
+[ 2.891829500] --- Riesgos
+[ 3.000409900
+[ 3.007546800] >>> Riesgos
+
+[ 3.021883400] ............Light: ^ON^
+[ 3.042416400] --- Riesgos] >>> Distancia_Segura
+-----PELIGRO COLISION
+
+
+
